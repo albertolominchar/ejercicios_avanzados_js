@@ -22,7 +22,7 @@ const mainCharacters = [
   'Anakin',
   'Obi-Wan'
 ]
-let text = 'Chewbacca'
+let text = 'Anakin'
 
 console.log(findArrayIndex(mainCharacters, text))
 removeItem(mainCharacters, text)
